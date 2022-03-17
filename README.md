@@ -1,4 +1,5 @@
 # AAB to APK Converter
+It is first tool that I have developed and shared with the world. Hope it is useful. I am open to suggestions and bug reports.
 
 ## Scripts
 - **bundletool_bridge.py**: Backend script which handles tasks that are to be performed.
