@@ -10,6 +10,3 @@ It is first tool that I have developed and shared with the world. Hope it is use
 ## How to build
 - Use pyinstaller to create executable
 - Keystore folder and bundletool jar is to be copied to distribution folder
-
-## Release
-Download executable from [here](https://www.aabtoapkconverter.com/ "AAB to APK Converter Homepage")
